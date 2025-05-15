@@ -11,7 +11,7 @@ import sys
 import os
 
 CONFIG_FILE = "config.json"
-DEFAULT_CONFIG = {"video_id": "1MkMVdZXxWE", "cmd_prefix": ""}
+DEFAULT_CONFIG = {"video_id": "dQw4w9WgXcQ", "cmd_prefix": ""}
 FONT_SIZE = 15
 
 
